@@ -46,8 +46,7 @@
 
 <p align="center"><img alt="YDP169HT006-V1" src="./images/YDP169HT006-V1.png" width="320" /></p>
 
-**说明：** 模组。
-
+**说明：** 带触摸（CST816）。
 ---
 
 ## 如何切换分支

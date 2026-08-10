@@ -46,8 +46,7 @@ Repo id: `1.69-tft-240x280-spi-st7789`
 
 <p align="center"><img alt="YDP169HT006-V1" src="./images/YDP169HT006-V1.png" width="320" /></p>
 
-**Notes:** Module.
-
+**Notes:** With touch (CST816).
 ---
 
 ## How to Switch Branches
